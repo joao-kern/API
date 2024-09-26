@@ -72,14 +72,3 @@ App.delete("/users/:id", async (req, res) => {
 });
 
 App.listen(3000);
-
-/*
-
- API de usuários
-
-    - Cadastrar usuários
-    - Listar usuários
-    - Editar usuários
-    - Deletar usuários
-
-*/
